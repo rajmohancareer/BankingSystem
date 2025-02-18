@@ -47,11 +47,5 @@ This project demonstrates the use of **Abstraction**, **Abstract Classes**, and 
 
 ## Technologies Used
 - **Java** – Core programming language
-- **JUnit** – For testing (can be added if needed)
 
----
-
-## How to Run the Project
-1. Clone this repository to your local machine:
-   ```bash
    git clone <repository-url>
